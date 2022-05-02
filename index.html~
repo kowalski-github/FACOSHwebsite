@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FACOSH</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+   <div class="wrapper">
+<!--NAVIGATION-->
+       <nav>
+          <img src="images/facosh1.png" class="img" alt="logo"  height="170" width="50"> 
+          <ul>
+              <li><a href="#">HOME</a></li>
+              <li><a href="#">ABOUT</a></li>
+              <li><a href="#">COURSES</a></li>
+              <li><a href="#">EVENTS</a></li>
+              <li><a href="#">GALLERY</a></li>
+              <li><a href="#">CONTACT</a></li>
+          </ul>
+       </nav>
+<!--END OF NAVIGATION-->
+      
+      <div class="section">
+          <h1>WE ENSURE A BETTER EDUCATION <br> FOR A BETTER GHANA</h1>
+          <p><span>Welcome to Fafraha Community Senior High, where the greatest foundation to your professional future is built.<span></p>
+          <p><span>We are looking forward to your enrollment. click the "GET STARTED" button below to get started.<span></p><br><br>
+          
+          <a href="signup.html" target="_blank"><button class="btn-1">GET STARTED</button></a><br><br><br><br>
+<!--FEATURES-->
+         <div class="features">
+             <button>Professional Tutors</button>
+             <button>Conducive Environment</button>
+             <button>Great Library</button>
+             <button>Laboratories</button>
+         </div>
+<!--END OF FEATURES-->
+      </div>
+<!--END OF SECTION-->
+   </div>
+<!--END OF WRAPPER-->
+   
+<!--SHOWCASE-->
+   <showcase>
+       <h1>ACADEMIC COURSES WE OFFER</h1>
+       <div id="courses">
+           <div class="HomeEconomics">
+               <h3>Home Economics</h3>
+               <img src="images/cse.jpeg" width="50%" alt="Home Economics">
+               <a href="#" ><button class="ReadMore">Read More</button></a>
+           </div>
+           <div class="visualArts">
+               <h3>Visual Arts</h3>
+               <img src="images/arts.jpeg" alt="Visual Arts">
+               <a href="#" ><button class="ReadMore">Read More</button></a>
+           </div>
+           <div class="business">
+               <h3>Business</h3>
+               <img src="images/business.jpeg" alt="business">
+               <a href="#" ><button class="ReadMore">Read More</button></a>
+           </div>
+           
+           <div class="GeneralArts">
+               <h3>General Arts</h3>
+               <img src="images/journalism.jpeg" alt="General arts">
+               <a href="#" ><button class="ReadMore">Read More</button></a>
+           </div>
+           <div class="GeneralScience">
+               <h3>General Science</h3>
+               <img src="images/NSMQ.jpg" alt="General Science">
+               <a href="#" ><button class="ReadMore">Read More</button></a>
+           </div>
+       </div>
+   </showcase>
+<!--END OF SHOWCASE-->
+   
+   <footer>
+       <p>Copyright &copy; 2022, FACOSH.</p>
+   </footer>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
